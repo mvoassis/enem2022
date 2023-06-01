@@ -2,6 +2,8 @@
 
 ### Prof. Dr. Marcos V. O. Assis (marcos.assis@ufpr.br)
 
+![enem2022](https://crportal.com.br/wp-content/uploads/2022/10/ENEEE.jpg)
+
 ## Descrição:
 
 Material utilizado durante curso realizado durante a Semana Acadêmica do curso de Licenciatura em Computação (SALC) - UFPR - Palotina/PR 2023.
