@@ -32,6 +32,7 @@ Utilizaremos dados amostrados (questão de agilidade), mas podem replicar com os
 **Dados amostrados:** Durante a realização do curso, foram utilizados dados amostrados (500000 amostras) dessa base de dados por questão de agilidade. Entretanto, pode-se utilizar sem problemas a base de dados completa, ou mesmo a base de dados de anos anteriores para a realização das análises (testei com a base de 2021, mas as bases mais antigas provavelmente estão no mesmo formato).
 
 --------------------------------------------------------------------------------
+# Transform Data into Knowledge: Introduction to Data Science workshop with data from ENEM 2022.
 
 ## Description:
 
