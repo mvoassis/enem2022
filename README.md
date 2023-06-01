@@ -16,8 +16,8 @@ Foram abordados conceitos introdutórios de análise e ciência de dados, bem co
 
 Caso queira ministrar um curso semelhante, os notebooks jupyter utilizados estão disponíveis neste repositório. 
 
-* Oficina_Intro_a_DS_com_dados_do_Enem_2022_Alunos.ipynb - Arquivo para que alunos possam ir preenchendo no decorrer do curso
-* Oficina_Intro_a_DS_com_dados_do_Enem_2022_Completo.ipynb - Arquivo completo para consulta
+* **Oficina_Intro_a_DS_com_dados_do_Enem_2022_Alunos.ipynb** - Arquivo para que alunos possam ir preenchendo no decorrer do curso
+* **Oficina_Intro_a_DS_com_dados_do_Enem_2022_Completo.ipynb** - Arquivo completo para consulta
 
 Caso tenha alguma contribuição para o curso, fique à vontade. :)
 
@@ -45,8 +45,8 @@ Introductory concepts of data analysis and data science were addressed, generati
 
 If you want to teach a similar course, the jupyter notebooks used are available in this repository.
 
-* Oficina_Intro_a_DS_com_dados_do_Enem_2022_Alunos.ipynb - File for students to fill in during the course
-* Oficina_Intro_a_DS_com_dados_do_Enem_2022_Completo.ipynb - Complete file for consultation
+* **Oficina_Intro_a_DS_com_dados_do_Enem_2022_Alunos.ipynb** - File for students to fill in during the course
+* **Oficina_Intro_a_DS_com_dados_do_Enem_2022_Completo.ipynb** - Complete file for consultation
 
 If you have any contribution to the course, feel free to submit it. :)
 
